@@ -12,7 +12,6 @@ Tools & Technologies
 - Pandas
 - Matplotlib
 - Jupyter Notebook
-- VS Code
 - strtamlit
 - plotly
 
