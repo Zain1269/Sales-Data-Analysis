@@ -13,6 +13,8 @@ Tools & Technologies
 - Matplotlib
 - Jupyter Notebook
 - VS Code
+- strtamlit
+- plotly
 
 Analysis Areas
 
